@@ -1,0 +1,20 @@
+.country_options {
+  border : 2px solid #ff6800;
+  border-right: 0px;
+   
+}
+.country_buttons{
+  border : 2px solid #ff6800;
+  border-left: 0px;
+  background: transparent; 
+  
+}
+.country_buttons:hover{
+  background-color:#ff6800;
+  color: white;
+  transition: 0.5s;
+ 
+}
+
+
+

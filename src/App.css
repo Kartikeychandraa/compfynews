@@ -1,0 +1,18 @@
+.m {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+  height: 100vh;
+}
+
+td {
+  padding: 20px ;
+  border: 2px solid red;
+}
+button{
+  
+  
+}
